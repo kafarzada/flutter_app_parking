@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "883805923042",
+    "project_id": "diplom-b45da",
+    "storage_bucket": "diplom-b45da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883805923042:android:264d94301c5accd00ce0bb",
+        "android_client_info": {
+          "package_name": "com.example.my_diplome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883805923042-jb3e2mgip8sto72ors360k921l2r64hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAME9S1FG_4u6UuiTsBcVeP7JdZayCROI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883805923042-jb3e2mgip8sto72ors360k921l2r64hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883805923042:android:30d9d143bac786fd0ce0bb",
+        "android_client_info": {
+          "package_name": "com.example.mydiplome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883805923042-jb3e2mgip8sto72ors360k921l2r64hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAME9S1FG_4u6UuiTsBcVeP7JdZayCROI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883805923042-jb3e2mgip8sto72ors360k921l2r64hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883805923042:android:aa068f80105b82a60ce0bb",
+        "android_client_info": {
+          "package_name": "com.example.parkingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883805923042-jb3e2mgip8sto72ors360k921l2r64hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAME9S1FG_4u6UuiTsBcVeP7JdZayCROI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883805923042-jb3e2mgip8sto72ors360k921l2r64hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883805923042:android:5d60164e8ceb79e60ce0bb",
+        "android_client_info": {
+          "package_name": "com.example.parkink_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883805923042-jb3e2mgip8sto72ors360k921l2r64hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAME9S1FG_4u6UuiTsBcVeP7JdZayCROI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883805923042-jb3e2mgip8sto72ors360k921l2r64hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
